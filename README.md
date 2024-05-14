@@ -11,3 +11,9 @@
 **#Example** 
 
 C:\Users\user_name\git\repository\WorkingWithCSV\target>java -jar WorkingWithCSV-0.0.1-SNAPSHOT.jar D:\\All_Tasks\\Employee_Details.csv D:\\All_Tasks\\New_Employee_Details.csv 5 "Engineer" "R&D" "MATLAB" "Developer" "IT" "Java"
+
+**#Alternative Approach**
+1. Import the project into Eclipse
+2. Right click on project and Run as -> Run Configurations
+3. Select the class name and check the pacakge
+4. Go to arguments tab and add the required arguments as mentioned in example
