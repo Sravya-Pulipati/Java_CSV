@@ -1,5 +1,5 @@
 **#About Project**
-1. This Java program, serves the purpose of processing a CSV file containing employee details. 
+1. This Java program, serves the purpose of processing a CSV file containing employee details through command prompt or code editor. 
 2. It accepts command-line arguments specifying the input CSV file path, output CSV file path, as well as criteria for identifying and updating specific employee records within the file. 
 3. Upon execution, it reads the input CSV file, searches for employee records matching the specified criteria (employee ID, designation, department, and technology), and updates those records with new designation, department, and technology information.
 4. The updated records are then written to the output CSV file, effectively allowing batch modification of employee roles based on specified criteria.
