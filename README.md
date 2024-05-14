@@ -5,7 +5,7 @@
 4. The updated records are then written to the output CSV file, effectively allowing batch modification of employee roles based on specified criteria.
 
 **#Process to execute in command prompt**
-* I attatched the required jar file of this project which you can execute using command prompt. Save the jar file in any folder on your pc. From there go to command prompt.
+* I attached the required jar file of this project which you can execute using command prompt. Save the jar file in any folder on your pc. From there go to command prompt.
 * The provided example is for the data in Example CSV files.
 
 **#Example** 
